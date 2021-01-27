@@ -9,7 +9,6 @@ export const StudentsList = () => {
     const [text, setText] = useState("");
     const [alert, setAlert] = useState(null);
 
-
     useEffect(() => {
         fetch('/api/data-that-i-need/');
         return () => {
@@ -26,7 +25,7 @@ export const StudentsList = () => {
                         setAlert('NNoooooo, I blame you...');
                         fetch('/api/blah/important', (err2, res2) => {
                             if (err2) {
-                                setAlert('i hope it\'s your internet stopping us!!');// todo change to a more official message
+                                setAlert('i hope it\'s your internet stopping us!!');
                             }
                         })
                     }
