@@ -7,7 +7,7 @@
 
 ---
 ## javascript console utils
-Adds a keyboard shortcut (default to `CTRL + SHIFT + L`) which write: `console.log()`, and when a variable was selected, adds `console.log(“var: “, var);` .
+Adds a keyboard shortcut (default to `CTRL + SHIFT + L`) which writes: `console.log()`. And when a variable is selected, writes `console.log(“var: “, var);`.
 
 
 ---
