@@ -1,5 +1,7 @@
 # Example Project Using VSCODE Extensions
 
+> this is an example repository only, an example which will 100% crash if "npm start"ed. so don't
+
 # Extensions List:
 \*  more at the bottom
 
