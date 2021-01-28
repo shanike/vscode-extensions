@@ -36,8 +36,10 @@ export const Another = () => {
         optionsArr.unshift(<option value='' />)
         return optionsArr;
     }
-    const hadnleSubmit = () => {
+
+    const hadnleSubmit = () => { //ctrl + alt + k
         if (noTeachersYet) {
+            // test
             props.openPopups(null, null)
             return;
         }
@@ -64,7 +66,11 @@ export const Another = () => {
             newCls.lastName = teachersSelectVal[index].split(' ')[1]
             return newCls;
         })
-        props.openPopups(null, 'LOADING')
+        props.openPopups(null, 'LOADING');
+
+
+
+        
         props.StudentsStore.assignHomeTeacher(classesWHomeTeacher.filter(c => c), (err, timeo) => {
             props.openPopups(err, 'ERROR')
             if (timeo) {
@@ -98,10 +104,9 @@ export const Another = () => {
     })
 
 
-    
     return (
         <div>
-            <h3>ANOTHER</h3>
+
         </div>
     )
 }
