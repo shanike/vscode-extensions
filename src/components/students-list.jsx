@@ -23,11 +23,6 @@ export const StudentsList = () => {
                 fetch('/api/blah/important', (err, res) => {
                     if (err) {
                         setAlert('NNoooooo, I blame you...');
-                        fetch('/api/blah/important', (err2, res2) => {
-                            if (err2) {
-                                setAlert('i hope it\'s your internet stopping us!!');
-                            }
-                        })
                     }
                     else if (res && res.data && res.data.firstName) {
                         setText(res.data.firstName);
