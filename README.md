@@ -62,6 +62,8 @@ with keyboard shortcuts, can add/remove/go to next/go to previous/show all/... b
 * ## 11. Split HTML attributes
 Splits attributes with props of html/jsx tags, so that each prop is on a new line (or the opposite: puts all attributes on the same line)
 
+**There are two similar extentions for this, the suggested one is called: 'Split HTML Attributes (Vue, React, Angular)'**
+
 
 ## this is the 'more' part
 - SCSS formatter
