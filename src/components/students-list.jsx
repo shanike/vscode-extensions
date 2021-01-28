@@ -3,7 +3,7 @@ import React, { useMemo } from 'react'
 import './students-list.scss';
 
 const STUDENTS_LIST = [{ name: "a", age: 11 }, { name: "b", age: 19 }, { name: "c", age: 22 }]
-const importantColor = "#a1f3ff"
+const importantColor = "#a1f3ff";
 
 export const StudentsList = () => {
 

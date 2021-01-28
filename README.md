@@ -3,67 +3,73 @@
 > this is an example repository only, an example which will 100% crash if "npm start"ed. so don't
 
 # Extensions List:
-\*  more at the bottom
+\*  More at the bottom.
 
-* ## 1. javascript console utils
-Adds a keyboard shortcut (default to `CTRL + SHIFT + L`) which write: `console.log()`, and when a variable was selected, adds `console.log(“var: “, var);` 
-
-
-
-* ## 2. Auto rename tag
-change the opening html/jsx tag, and the closing tag will change parallel (or vice-versa)
+---
+## javascript console utils
+Adds a keyboard shortcut (default to `CTRL + SHIFT + L`) which write: `console.log()`, and when a variable was selected, adds `console.log(“var: “, var);` .
 
 
+---
+## Auto rename tag
+When changing the opening html/jsx tag, the closing tag will automaticly change in parallel (vice-versa).
 
-* ## 3. ES7 React/.../React-Native Snippet
-Words or a combination of letters which when you write in your code, the Intellisense will provide you options from the React Snippet library which, when selected, will open (surprisingly) a SNIPPET
+
+---
+## ES7 React/.../React-Native Snippet
+Words or a combination of letters which you can write in your code and the VSCode Intellisense will provide you with options from the React Snippet library which, when selected, will open (surprisingly) a SNIPPET.
 
 \> *many combinations*
 
 
+---
+## Better comments
+colors the comment: ! - red, ? - blue, todo - orange, * - green.
 
-* ## 4. Better comments
-colors the comment: ! - red, ? - blue, todo - orange, * - green
+\> *this extention has interesting stuff in it's settings*
 
 
-
-* ## 5. Bracket Pair Colorizer 2
-When hard to see all the bracket scopes... (colors brackets pairs)
+---
+## Bracket Pair Colorizer 2
+When hard to see all the bracket scopes... (colors bracket pairs).
 
 \> *many settings*
 
 
-
-* ## 6. CSS peak
-With the `ctrl` button pressed, hovering over an html/jsx className/class/id, a peek of the css code will appear
-
-
-
-* ## 7. Color Highlight
-colors the background of a color-code according to the color
+---
+## CSS peak
+With the `ctrl` button pressed, hovering over an html/jsx className/class/id, a peek of the CSS code will appear.
 
 
-
-* ## 8. Color Assist
-using special comments, will color the background of the selected scope (between the two comments)
-
-
-
-* ## 9. Indent rainbow
-colors indentations in your code. can be limited to certain file types, for example I suggest to limit it to .scss files
+---
+## Color Highlight
+Colors the background of a color-code according to the color (e.g. #1464d4).
 
 
+---
+## Color Assist
+Using special comments, this extention will color the background of the selected scope (between the two comments).
 
-* ## 10. Bookmarks
-with keyboard shortcuts, can add/remove/go to next/go to previous/show all/... bookmarks, where your cursor currently is. Plus there's a list of all bookmarks
+\> *Opening comment: `//#green`, closing comment: `//#`*
 
 
+---
+## Indent rainbow
+Colors indentations in your code. Can be limited to certain file types, for example it's nice to limit it to .scss files.
 
-* ## 11. Split HTML attributes
-Splits attributes with props of html/jsx tags, so that each prop is on a new line (or the opposite: puts all attributes on the same line)
 
-**There are two similar extentions for this, the suggested one is called: 'Split HTML Attributes (Vue, React, Angular)'**
+---
+## Bookmarks
+With keyboard shortcuts, can add/remove/go-to-next/go-to-previous/show all/... bookmarks (according to where your cursor currently is). Plus there's a list of all your bookmarks.
 
+
+---
+## Split HTML attributes
+Splits html/jsx tags by attributes, so that each prop is on a new line (or the opposite: puts all attributes on the same line).
+
+**(!)  There are two similar extentions for this, the suggested one is called: 'Split HTML Attributes (Vue, React, Angular)'**
+
+---
 
 ## this is the 'more' part
 - SCSS formatter
