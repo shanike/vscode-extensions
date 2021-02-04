@@ -24,7 +24,7 @@ Words or a combination of letters which you can write in your code and the VSCod
 
 ---
 ## Better comments
-colors the comment: ! - red, ? - blue, todo - orange, * - green.
+colors the comment: ! - red, ? - blue, todo - orange, * - green, // - strike & grey.
 
 \> *this extention has interesting stuff in it's settings*
 
