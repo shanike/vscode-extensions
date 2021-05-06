@@ -70,11 +70,9 @@ Splits html/jsx tags by attributes, so that each prop is on a new line (or the o
 
 **(!)  There are two similar extentions for this, the suggested one is called: 'Split HTML Attributes (Vue, React, Angular)'**
 
----
 
 ## New Extenstions Here
 
----
 
 ### Visual Studio IntelliCode (!!!!!!!)
 comes from Microsoft. Adds intellisense formed from data of millions of users. it guesses good...
