@@ -24,7 +24,7 @@ Words or a combination of letters which you can write in your code and the VSCod
 
 
 ---
-## Better comments
+### Better comments
 colors the comment: ! - red, ? - blue, todo - orange, * - green, // - strike & grey.
 
 \> *this extention has interesting stuff in it's settings*
@@ -79,38 +79,46 @@ Splits html/jsx tags by attributes, so that each prop is on a new line (or the o
 ### Visual Studio IntelliCode (!!!!!!!)
 comes from Microsoft. Adds intellisense formed from data of millions of users. it guesses good...
 
+---
 
 ### Auto Add Brackets in String Interpolation
 if you type a dollar sign ($) inside ` ` it will add the curly brackets for you
 ``` `$` ``` will turn to ``` `${typingHere...}` ```
 
+---
 
 ### Azure Databases (for mongo)
 update databse very easily
 קרדיט לאלעד
 
+---
 
 ### Bracket Peek 
 (TRY THIS!!!)
 when cursor or hover is on a closing bracket, this extension will show you what the opening bracket looks like. e.g if there's a big and scoped function and your working somewhere in the middle, it'll show you what's goin on in the opening bracket your cursor or hove is on 
 
+---
 
 ### JSON Trailing Comma Trimmer
 opening the command palette, this extension will give you a command which removed trailing commas (```,```) in JSON file (or in current JSON object)
 
+---
 
 ### Settings Sync
 save your vscode settings+extensions+snippets etc.
 
+---
 
 ### Svg Preview
 ... svg preview ... (right when you open a .svg file, it'll load the svg in a tab on your right)
 
+---
 
 ### Theme by language
 If you want your vscode Color Theme to change per file language (e.g ```.js```, ```.py```).
 - you'll need to set it to what you want
 
+---
 
 ## Extra Extenstions Here
 - SCSS formatter
