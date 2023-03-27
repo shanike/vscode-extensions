@@ -51,12 +51,13 @@ It exists mainly and only for this readme.
 > The names here are the exact names of the extensions in the vscode's extensions marketplace (`ctrl`+`shift`+`x` in vscode)
 
 
-
+---
 ### IntelliCode
 Comes from **Microsoft**. 
 
 Adds intellisense which is created from data of millions of users. it guesses good...
 
+https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode
 
 ---
 ### Code Spell Checker
