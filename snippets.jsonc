@@ -1,0 +1,88 @@
+{
+    "my-console.log": {
+        "scope": "javascript, typescript, javascriptreact, typescriptreact",
+        "body": "console.log($1);",
+    },
+    // REACT Components
+    "export const (arrow func) Component": {
+        "prefix": "comp",
+        "scope": "javascript, javascriptreact",
+        "body": [
+            "",
+            "",
+            "",
+            "export const $TM_FILENAME_BASE = () => {",
+            "",
+            "",
+            "\treturn (",
+            "\t\t<div>",
+            "\t\t\t$0",
+            "\t\t</div>",
+            "\t);",
+            "};",
+            "",
+        ]
+    },
+    "export const (arrow func) Component (typescript)": {
+        "prefix": "comp",
+        "scope": "typescriptreact",
+        "body": [
+            "import { FC } from 'react'",
+            "",
+            "",
+            "",
+            "interface ${TM_FILENAME_BASE}Props {",
+            "\t",
+            "}",
+            "",
+            "",
+            "export const ${TM_FILENAME_BASE}: FC<${TM_FILENAME_BASE}Props> = ({ }) => {",
+            "",
+            "",
+            "\treturn (",
+            "\t\t$2",
+            "\t);",
+            "};",
+            "",
+        ]
+    },
+    // REACT hook
+    "export a custom hook by filename": {
+        "prefix": "hook",
+        "scope": "typescript, javascript",
+        "body": [
+            "",
+            "export const ${TM_FILENAME_BASE} = () => {",
+            "\t$0",
+            "};",
+            "",
+        ]
+    },
+
+    // REACT use effect
+    "use effect (nice version)": {
+		"prefix": "useEffect",
+		"scope": "typescriptreact, javascriptreact",
+		"body": [
+			"useEffect(() => {\n\t$2",
+			"}, [$1]);"
+		]
+	},
+
+    // import path and then content
+    "import from './path {values}": {
+		"prefix": "imp",
+		"scope": "javascript, typescript, javascriptreact, typescriptreact",
+		"body": "import { $2 } from '$1';",
+	},
+
+    "anonymous async self-calling function": {
+        "scope": "javascript, typescript, javascriptreact, typescriptreact",
+        "prefix": "async() anonymous",
+        "body": [
+            "(async()=>{",
+            "$1",
+            "})();"
+        ]
+    },
+}
