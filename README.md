@@ -4,6 +4,8 @@ This is an example repository only, an example which will 100% crash if "npm sta
 
 It exists mainly and only for this readme.
 
+> Notice the [snippets.md](snippets.md) file for vscode use configured snippets
+
 - [הנחות יסוד](#הנחות-יסוד) <br/>
 - [Extensions List](#extensions-list): <br/>
   - [Visual Studio IntelliCode](#visual-studio-intellicode)
