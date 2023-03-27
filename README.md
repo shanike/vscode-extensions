@@ -36,6 +36,7 @@ It exists mainly and only for this readme.
   - [JSON Trailing Comma Trimmer](#json-trailing-comma-trimmer)
   - [Bracketeer](#bracketeer)
   - [Azure Databases (for MongoDB)](#azure-databases-for-mongodb)
+  - [Two-slash Queries](#two-slash-queries)
 
 
 
@@ -262,7 +263,14 @@ https://marketplace.visualstudio.com/items?itemName=pustelto.bracketeer
 ### Azure Databases (for MongoDB)
 Update database very easily
 
+---
 
+### Two-slash queries
+Allows you to see the types of different things in TypeScript by leaving a comment with `^?` pointing to what you want to see
+
+![image](https://user-images.githubusercontent.com/116496520/227895007-8007d4db-f077-4abe-81a2-cd771800c925.png)
+
+https://marketplace.visualstudio.com/items?itemName=Orta.vscode-twoslash-queries
 
 ## Extra Extenstions Here
 - shell formatter
