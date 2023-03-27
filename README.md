@@ -8,7 +8,7 @@ It exists mainly and only for this readme.
 
 - [הנחות יסוד](#הנחות-יסוד) <br/>
 - [Extensions List](#extensions-list): <br/>
-  - [Visual Studio IntelliCode](#visual-studio-intellicode)
+  - [IntelliCode](#intellicode)
   - [Code Spell Checker](#code-spell-checker)
   - [TabOut](#tabout)
   - [To](#to)
@@ -52,7 +52,7 @@ It exists mainly and only for this readme.
 
 
 
-### Visual Studio IntelliCode
+### IntelliCode
 Comes from **Microsoft**. 
 
 Adds intellisense which is created from data of millions of users. it guesses good...
