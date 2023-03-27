@@ -48,7 +48,7 @@ It exists mainly and only for this readme.
 
 ## Extensions List:
 
-> The names here are the exact names of the extensions in the vscode's extensions marketplace (`ctrl` + `shift` + `x` in vscode)
+> The names here are the exact names of the extensions in the vscode's extensions marketplace (`ctrl`+`shift`+`x` in vscode)
 
 
 
