@@ -26,9 +26,9 @@ For vscode snippet docs: [what are snippets](https://code.visualstudio.com/docs/
 > Creates the snippet `(()=>{$cursor_is_here})();`
 > Note: lately anonymous async functions are (happily) not useful, so you may not understand why.
 
-For more info about each one, go see [./snippets.jsonc](snippets.jsonc)!
+**For more info about each one, go see [./snippets.jsonc](snippets.jsonc)!**
 
-## How to add user configured snippets to your vscode
+## How to generally add user configured snippets to your vscode
 - press `ctrl`+`shift`+`p`
 - write "configure user snippets"
 - select the relevant option to create a new global snippets file
