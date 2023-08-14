@@ -278,6 +278,8 @@ https://marketplace.visualstudio.com/items?itemName=Orta.vscode-twoslash-queries
 ### Pretty TypeScript Errors
 Make TypeScript errors prettier and more human-readable in VSCode
 
+![image](https://user-images.githubusercontent.com/56911506/235635643-e97148c0-86b6-4ff5-8955-7a4f011396d3.png)
+
 https://marketplace.visualstudio.com/items?itemName=yoavbls.pretty-ts-errors
 
 
