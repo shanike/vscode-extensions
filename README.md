@@ -6,8 +6,13 @@ It exists mainly and only for this readme.
 
 > Notice the [snippets.md](snippets.md) file for vscode user configured snippets
 
-- [הנחות יסוד](#הנחות-יסוד) <br/>
-- [Extensions List](#extensions-list): <br/>
+## הנחות יסוד
+- The command pallette (opened with `ctrl`+`shift`+`p`) has all commands (command that are bind to keyboard shortcuts and commands that are not)
+- The extensions can be opened with `ctrl`+`shift`+`x`
+- Intellisense is vs-code's completion menu that tries to complete your sentence (- your line of code)
+
+
+## Extensions List:
   - [IntelliCode](#intellicode)
   - [Code Spell Checker](#code-spell-checker)
   - [TabOut](#tabout)
@@ -38,14 +43,6 @@ It exists mainly and only for this readme.
   - [Azure Databases (for MongoDB)](#azure-databases-for-mongodb)
   - [Two-slash Queries](#two-slash-queries)
   - [Pretty TypeScript Errors](#pretty-typescript-errors)
-
-
-
-## הנחות יסוד
-- The command pallette (opened with `ctrl`+`shift`+`p`) has all commands (command that are bind to keyboard shortcuts and commands that are not)
-- The extensions can be opened with `ctrl`+`shift`+`x`
-- Intellisense is vs-code's completion menu that tries to complete your sentence (- your line of code)
-
 
 
 ## Extensions List:
