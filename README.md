@@ -1,20 +1,23 @@
-## Example Project Using VSCODE Extensions
-
-This is an example repository only, an example which will 100% crash if "npm start"ed. so don't
-
-It exists mainly and only for this readme.
-
-> Notice the [snippets.md](snippets.md) file for vscode user configured snippets
-
-## הנחות יסוד
-- The command pallette (opened with `ctrl`+`shift`+`p`) has all commands (command that are bind to keyboard shortcuts and commands that are not)
-- The extensions can be opened with `ctrl`+`shift`+`x`
-- Intellisense is vs-code's completion menu that tries to complete your sentence (- your line of code)
+Table of Content:
+1. [Assumptions = הנחות יסוד](-=-assumptions#הנחות-יסוד)
+2. [Snippets list](#snippets-list)
+3. [Extenstions list](#extensions-list)
+3. [Extensions list - with details & description](#extensions-list-with-details-and-description)
+5. [Running this project (hint: don't)](#running-this-project)
 
 
-## Extensions List:
+# Assumptions = הנחות יסוד
+1. The command pallette (opened with `ctrl`+`shift`+`p`) has all commands (command that are bind to keyboard shortcuts and commands that are not)
+2. The extensions can be opened with `ctrl`+`shift`+`x`
+3. Intellisense is vs-code's completion menu that tries to complete your sentence (- your line of code)
+
+# Snippets List
+Notice the [snippets.md](snippets.md) file for vscode user-configured snippets.
+
+# Extensions List
   - [IntelliCode](#intellicode)
   - [Code Spell Checker](#code-spell-checker)
+  - [Live Share](#live-share)
   - [TabOut](#tabout)
   - [To](#to)
   - [GitLens](#gitlens)
@@ -45,7 +48,7 @@ It exists mainly and only for this readme.
   - [Pretty TypeScript Errors](#pretty-typescript-errors)
 
 
-## Extensions List:
+## Extensions List with Details and Description
 
 > The names here are the exact names of the extensions in the vscode's extensions marketplace (`ctrl`+`shift`+`x` in vscode)
 
@@ -69,6 +72,17 @@ VERY SUGGESTED
 > I once wrote a short doc about a certain function, and at the end I noticed (thanks to this extension) that I mis-spelled the word "function" three times, in THREE different ways in one paragraph.
 
 https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker
+
+---
+### Live Share
+To see other's vscode on your vscode.
+
+Enables you to quickly collaborate with a friend on the same code without the need to sync code or to configure the same development tools, settings, or environment.
+
+* Instead of looking at code from one computer on a small screen - share the code from the one computer to the other and view the **same** code on different screens/computers.
+* If you have a different theme in vscode, while live-sharing: each person will see the files in the theme that's in their vscode
+
+https://code.visualstudio.com/blogs/2017/11/15/live-share
 
 ---
 ### TabOut
@@ -281,10 +295,15 @@ https://marketplace.visualstudio.com/items?itemName=yoavbls.pretty-ts-errors
 
 
 ## Extra Extenstions Here
-- shell formatter
-- DotENV
-- live share
-- Polacode (takes nice code pictures)
-- VSCode Progressive Increment (select lines of numbers to increment all by 1 or 10 I think)
+- shell formatter (- formats bash/shell files, bcos there's no default format-document (= ctrl+shift+i) for .sh files)
+- DotENV (- colors .env file content)
+- Polacode (- takes nice code pictures)
+- VSCode Progressive Increment (- select lines of numbers to increment all by 1 or 10 I think)
 
 
+
+# Running this Project
+
+This is an example repository only, an example which will 100% crash if "npm start"ed. so don't.
+
+It exists mainly and only for this readme.
