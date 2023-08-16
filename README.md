@@ -4,6 +4,7 @@ Table of Content:
 3. [Extenstions list](#extensions-list)
 3. [Extensions list - with details & description](#extensions-list-with-details-and-description)
 5. [Running this project (hint: don't)](#running-this-project)
+6. [Want to add an extention?](#how-to-contribute)
 
 
 # Assumptions = הנחות יסוד
@@ -307,3 +308,18 @@ https://marketplace.visualstudio.com/items?itemName=yoavbls.pretty-ts-errors
 This is an example repository only, an example which will 100% crash if "npm start"ed. so don't.
 
 It exists mainly and only for this readme.
+
+# How To Contribute
+clone/fork, make a PR from your branch into main.
+### Make sure to:
+1. Fill me in on the extension you're planning to add to the list. (shani kehati on Slack/Email)
+2. The name of the extension will be identical to the extention-id.
+3. Add the new extension name (according to 2. ^) and description under [Extensions list - with details & description](#extensions-list-with-details-and-description)
+4. Make sure to add both a description and the link of the extension ^ (in 3.)
+5. Add the new extension name (according to 2. ^) under [Extenstions list](#extensions-list)
+6. Make sure the link you added in 5. works
+7. Submit the PR (:
+
+
+
+
