@@ -47,7 +47,7 @@ Notice the [snippets.md](snippets.md) file for vscode user-configured snippets.
   - [Azure Databases (for MongoDB)](#azure-databases-for-mongodb)
   - [Two-slash Queries](#two-slash-queries)
   - [Pretty TypeScript Errors](#pretty-typescript-errors)
-
+  - [Error Lens](#error-lens)
 
 ## Extensions List with Details and Description
 
@@ -294,6 +294,14 @@ Make TypeScript errors prettier and more human-readable in VSCode
 
 https://marketplace.visualstudio.com/items?itemName=yoavbls.pretty-ts-errors
 
+---
+
+### Error Lens
+See errors inline as they happen, in addition to in a popup on hover.
+
+![image](https://github.com/shanike/vscode-extensions/assets/56911506/01b42ddb-8596-4776-b404-6c2e3c067311)
+
+https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens
 
 ## Extra Extenstions Here
 - shell formatter (- formats bash/shell files, bcos there's no default format-document (= ctrl+shift+i) for .sh files)
