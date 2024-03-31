@@ -45,7 +45,7 @@ Notice the [snippets.md](snippets.md) file for vscode user-configured snippets.
   - [JSON Trailing Comma Trimmer](#json-trailing-comma-trimmer)
   - [Bracketeer](#bracketeer)
   - [Azure Databases (for MongoDB)](#azure-databases-for-mongodb)
-  - [Two-slash Queries](#two-slash-queries)
+  - [Twoslash Query Comments](#twoslash-query-comments)
   - [Pretty TypeScript Errors](#pretty-typescript-errors)
   - [Error Lens](#error-lens)
 
@@ -278,7 +278,7 @@ Update database very easily
 
 ---
 
-### Two-slash queries
+### Twoslash Query Comments
 Allows you to see the types of different things in TypeScript by leaving a comment with `^?` pointing to what you want to see
 
 ![image](https://user-images.githubusercontent.com/116496520/227895007-8007d4db-f077-4abe-81a2-cd771800c925.png)
