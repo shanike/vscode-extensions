@@ -48,6 +48,7 @@ Notice the [snippets.md](snippets.md) file for vscode user-configured snippets.
   - [Twoslash Query Comments](#twoslash-query-comments)
   - [Pretty TypeScript Errors](#pretty-typescript-errors)
   - [Error Lens](#error-lens)
+  - [Quokka](#quokka)
 
 ## Extensions List with Details and Description
 
@@ -303,12 +304,21 @@ See errors inline as they happen, in addition to in a popup on hover.
 
 https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens
 
+---
+
+### Quokka
+A developer productivity tool for rapid JavaScript / TypeScript prototyping. Runtime values are updated and displayed in your IDE next to your code, as you type.
+
+![image](https://github.com/user-attachments/assets/f47648e6-0f0b-4b4d-a291-b8d523975631)
+
+https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode
+
+
 ## Extra Extenstions Here
 - shell formatter (- formats bash/shell files, bcos there's no default format-document (= ctrl+shift+i) for .sh files)
 - DotENV (- colors .env file content)
 - Polacode (- takes nice code pictures)
 - VSCode Progressive Increment (- select lines of numbers to increment all by 1 or 10 I think)
-
 
 
 # Running this Project
