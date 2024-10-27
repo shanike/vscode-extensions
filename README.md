@@ -49,7 +49,7 @@ Notice the [snippets.md](snippets.md) file for vscode user-configured snippets.
   - [Pretty TypeScript Errors](#pretty-typescript-errors)
   - [Error Lens](#error-lens)
   - [Quokka](#quokka)
-  - [Emojies Intellisense](#emojies-intellisense-(emojisense))
+  - [Emojies Intellisense (Emojisense)](#emojies-intellisense-emojisense)
 
 ## Extensions List with Details and Description
 
