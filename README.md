@@ -49,6 +49,7 @@ Notice the [snippets.md](snippets.md) file for vscode user-configured snippets.
   - [Pretty TypeScript Errors](#pretty-typescript-errors)
   - [Error Lens](#error-lens)
   - [Quokka](#quokka)
+  - [Emojies Intellisense](#emojies-intellisense-(emojisense))
 
 ## Extensions List with Details and Description
 
@@ -313,6 +314,12 @@ A developer productivity tool for rapid JavaScript / TypeScript prototyping. Run
 
 https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode
 
+---
+
+### Emojies Intellisense (Emojisense)
+Adds suggestions and autocomplete for emoji to VS Code.
+
+https://marketplace.visualstudio.com/items?itemName=bierner.emojisense
 
 ## Extra Extenstions Here
 - shell formatter (- formats bash/shell files, bcos there's no default format-document (= ctrl+shift+i) for .sh files)
