@@ -50,6 +50,7 @@ Notice the [snippets.md](snippets.md) file for vscode user-configured snippets.
   - [Error Lens](#error-lens)
   - [Quokka](#quokka)
   - [Emojies Intellisense (Emojisense)](#emojies-intellisense-emojisense)
+  - [Image Preview](#image-preview)
 
 ## Extensions List with Details and Description
 
@@ -320,6 +321,15 @@ https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode
 Adds suggestions and autocomplete for emoji to VS Code.
 
 https://marketplace.visualstudio.com/items?itemName=bierner.emojisense
+
+---
+
+### Image Preview
+Shows image preview in the gutter (next to the line number) and on hover
+
+![sample](https://github.com/user-attachments/assets/08f25bf6-0ccc-45d4-b2f8-15346595cff2)
+
+https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview
 
 ## Extra Extenstions Here
 - shell formatter (- formats bash/shell files, bcos there's no default format-document (= ctrl+shift+i) for .sh files)
